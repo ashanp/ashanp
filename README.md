@@ -18,8 +18,8 @@ Performance-driven TOGAF Certified Senior Solutions Architect with **22 years of
 - **Efficiency Enhancements:** Introduced monitoring systems to reduce customer complaints by 40%.
 - **Technology Modernisation:** Delivered award-winning hardware modernisation and innovative solutions that drove company growth.
 - **Business Systems Transformations:** Transform legacy 3T billing interfaces to Microservice Architecture
-- **Scalability and Resiliency** Transform legacy application to containerized instances to boost saleability and resilience
-- **Appliction Security** Designed and implemented security solutions in compliance with OWASP (Open Web Application Security Project) guidelines, focusing on mitigating vulnerabilities such as SQL injection, XSS, CSRF, and authentication flaws  
+- **Scalability and Resiliency:** Transform legacy application to containerized instances to boost saleability and resilience
+- **Appliction Security:** Designed and implemented security solutions in compliance with OWASP (Open Web Application Security Project) guidelines, focusing on mitigating vulnerabilities such as SQL injection, XSS, CSRF, and authentication flaws  
  
 
 ---
