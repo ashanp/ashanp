@@ -31,12 +31,13 @@ Performance-driven TOGAF Certified Senior Solutions Architect with **22 years of
 | **Solutions Architecture** | SDLC, Saga, GoF Patterns, Enterprise Integration Patterns                                                  | 20 years       | Expert     |
 | **Modelling Tools**        | Rational Rose (UML), Microsoft Visio, Draw.io                                                              | 20 years       | Expert     |
 | **Programming Languages**  | C/C++, Core Java, J2EE, Python, Perl, Oracle SQL/PLSQL                                                     | 17 years       | Expert     |
-| **Databases**              | Oracle 19C, MySQL, MongoDB, Elastic DB                                                                     | 15 years       | Advanced   |
+| **Databases**              | Oracle 19C, MySQL, MongoDB, Elastic DB, PostgreSQL                                                         | 15 years       | Advanced   |
 | **Frameworks**             | Spring Core, Spring Boot, Spring Cloud, Spring Batch                                                      | 5 years        | Advanced   |
 | **Messaging**              | Kafka, Apache NiFi, RabbitMQ                                                                              | 5 years        | Advanced   |
 | **Version Control**        | GIT, Rational ClearCase, SVN                                                                              | 10 years       | Advanced   |
 | **Application Servers**    | Apache Tomcat, JBoss, Mule Runtime, NGINX                                                                 | 10 years       | Advanced   |
-| **Virtualisation Tools**   | VMware, Docker                                                                                            | 4 years        | Competent  |
+| **Virtualisation Tools**   | OpenShift, Docker, VMware                                                                                 | 4 years        | Competent  |
+| **CICD Tools**             | Jenkins, TeamCity                                                                                         | 7 years        | Advanced   |
 
 ---
 
