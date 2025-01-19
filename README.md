@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Ashan Malinda Perera - Skills Summary
 
 ## Contact Information
