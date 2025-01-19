@@ -3,7 +3,7 @@
 # Ashan Malinda Perera - Skills Summary
 
 ## Contact Information
-- **Phone:** +64204369886  
+- **Phone:** New Zealand:+64204369886 UAE: +971501257354  
 - **Email:** ashanp@gmail.com  
 - **LinkedIn:** [ashanmalindaperera](https://www.linkedin.com/in/ashanmalindaperera/)  
 
