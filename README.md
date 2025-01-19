@@ -35,7 +35,7 @@ Performance-driven TOGAF Certified Senior Solutions Architect with **22 years of
 | **Frameworks**             | Spring Core, Spring Boot, Spring Cloud, Spring Batch                                                      | 5 years        | Advanced   |
 | **Messaging**              | Kafka, Apache NiFi, RabbitMQ                                                                              | 5 years        | Advanced   |
 | **Version Control**        | GIT, Rational ClearCase, SVN                                                                              | 10 years       | Advanced   |
-| **Application Servers**    | Apache Tomcat, JBoss, Mule Runtime, NGINX                                                                 | 10 years       | Advanced   |
+| **Application Servers**    | Apache Tomcat, JBoss, Mule Runtime, NGINX, WebLogic                                                       | 10 years       | Advanced   |
 | **Virtualisation Tools**   | OpenShift, Docker, VMware                                                                                 | 4 years        | Competent  |
 | **CICD Tools**             | Jenkins, TeamCity                                                                                         | 7 years        | Advanced   |
 
